@@ -22,8 +22,6 @@ This app was collaboratively developed with my fellow peers from the SEO Tech De
 
 ## 🛠️ Installation
 
-### Prerequisites
-
 - 🐍 Python 3.7 or higher
 - 🗃️ SQLite3
 - 📦 Required Python libraries: `requests`, `json`, `sqlite3`, `os`, `sys`
